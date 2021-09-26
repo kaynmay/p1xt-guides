@@ -4,7 +4,7 @@ Complete the [Deep Dive Into Modern Web Development - Full Stack Open 2020](http
 
 | Courses                                                                                                                                                                         |   Status   |   Evidence   |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------: | :----------: |
-| Fundamentals of Web apps                                                                                                                                                        |      ~      |              |
+| Fundamentals of Web apps                                                                                                                                                        |      Complete 9/26     |              |
 | Introduction to React                                                                                                                                                           |            |              |
 | Communicating with server                                                                                                                                                       |            |              |
 | Programming a server with NodeJS and Express                                                                                                                                    |            |              |
