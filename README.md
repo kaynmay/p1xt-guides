@@ -78,8 +78,8 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)                                                            |  |              |
-| [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)                                                             |  ~ |              |
+| [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)                                                            | ~ |              |
+| [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)                                                             |  Completed 10/12/21 |              |
 | [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)                                                            |            |              |
 | [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                                    |            |              |
 | [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        |            |              |
@@ -92,8 +92,8 @@ Complete the [Deep Dive Into Modern Web Development - Full Stack Open 2020](http
 
 | Courses                                                                                                                                                                         |   Status   |   Evidence   |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------: | :----------: |
-| Fundamentals of Web apps                                                                                                                                                        |      Complete 9/26/21     |              |
-| Introduction to React                                                                                                                                                           |       Complete 10/12/21   |              |
+| Fundamentals of Web apps                                                                                                                                                        |      Completed 9/26/21     |              |
+| Introduction to React                                                                                                                                                           |       Completed 10/12/21   |              |
 | Communicating with server                                                                                                                                                       |            |              |
 | Programming a server with NodeJS and Express                                                                                                                                    |            |              |
 | Testing Express servers, user administration                                                                                                                                    |            |              |
